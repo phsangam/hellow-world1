@@ -1,2 +1,2 @@
-<h1> Namaste, Welcome to Valaxy Technologies !!! </h1>
+<h1> Namaste, Welcome to Payhuddle !!! </h1>
 
